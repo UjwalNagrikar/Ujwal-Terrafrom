@@ -1,3 +1,4 @@
+# Terraform Script with Multiple Variables
 variable "name" {
   type = string
   default = "Ujwal"
